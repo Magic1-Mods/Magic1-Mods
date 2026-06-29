@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,cc0000&height=200&section=header&text=Magic%20Mods&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20NDK%20%7C%20IL2CPP%20%7C%20Hooking&descAlignY=58&descSize=18&descColor=ffaaaa"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,cc0000&height=200&section=header&text=Neo%20Mods&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20NDK%20%7C%20IL2CPP%20%7C%20Hooking&descAlignY=58&descSize=18&descColor=ffaaaa"/>
 </p>
 
 <h2 align="center">About Me</h2>
@@ -26,8 +26,8 @@ I'm a **C++ / Android developer** specializing in reverse engineering, low-level
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://t.me/retiredgamermods">
-    <img src="https://img.shields.io/badge/Telegram-RetiredGamerMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/NeoModsChannel">
+    <img src="https://img.shields.io/badge/Telegram-NeoMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
