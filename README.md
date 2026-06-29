@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">About Me</h2>
+
 **Sorry i had to change my profile cause Magic Mods wasn't meant for me**
 
 I'm a **C++ / Android developer** specializing in reverse engineering, low-level game modding, and native Android development. My expertise spans IL2CPP hooking frameworks, JNI-bridged overlay systems, and high-performance runtime tooling. I'm passionate about clean architecture and building stable, maintainable mod infrastructure.
